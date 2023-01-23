@@ -1,0 +1,15 @@
+{
+  "name": "Hotel-Website-Project2-UAS-PW",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jundy779/Project2_pw.git"
+  },
+  "author": "jundy779",
+  "license": "MIT"
+}
