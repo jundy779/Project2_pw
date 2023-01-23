@@ -22,9 +22,13 @@ Project is made open source and free for all. We cant prohibit reselling of our 
 #### Live preview link: https://kreasi.nurulfikri.ac.id/muha22233si/Project2_UAS/
 
 #### Lower part of main page
-![Preview image 1](/img/preview/previewimage1.png?raw=true "Lower part of main page") 
-#### About page
-![Preview image 2](/img/preview/previewimage2.png?raw=true "About page") 
+![Preview image 1]![image](https://user-images.githubusercontent.com/54092710/214032349-54c0644d-78d3-4d90-9ba0-2d5a0abb414b.png)
+#### Booking page
+![Preview image 2]![image](https://user-images.githubusercontent.com/54092710/214032577-ad3841f4-c65b-4653-ad00-a5e39339f88a.png)
 #### Contact Us Page
-![Preview image 3](/img/preview/previewimage3.png?raw=true "Contact us") 
- 
+![Preview image 3]![image](https://user-images.githubusercontent.com/54092710/214032490-e01d1a7f-80e5-4463-bd9d-3d43433daa84.png) 
+#### Login Page
+![Preview image 3]![image](https://user-images.githubusercontent.com/54092710/214032753-a8e944b7-7537-49d7-bea5-25bc8e3ba9d4.png)
+#### Dasboard Page
+![Preview image 3]![image](https://user-images.githubusercontent.com/54092710/214032862-1f13a6be-43e3-431f-aae6-0de1aa273ed5.png)
+
