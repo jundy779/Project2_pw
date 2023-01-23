@@ -1,11 +1,11 @@
-# Hotel-Website-Template
+# Hotel-Website-Project2-UAS-PW
 
 Free to use website template,created from scratch using HTML and CSS
 
-![GitHub package version](https://img.shields.io/github/package-json/v/LjoveX/Hotel-Website-Template.svg)
-[![GitHub forks](https://img.shields.io/github/forks/LjoveX/Hotel-Website-Template.svg?style=plastic)](https://github.com/LjoveX/Hotel-Website-Template/network)
-[![GitHub stars](https://img.shields.io/github/stars/LjoveX/Hotel-Website-Template.svg?style=plastic)](https://github.com/LjoveX/Hotel-Website-Template/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/LjoveX/Hotel-Website-Template/master/LICENSE)
+![GitHub package version](https://img.shields.io/github/package-json/v/jundy779/Project2_pw.svg)
+[![GitHub forks](https://img.shields.io/github/forks/jundy779/Project2_pw.svg?style=plastic)](https://github.com/jundy779/Project2_pw/network)
+[![GitHub stars](https://img.shields.io/github/stars/jundy779/Project2_pw.svg?style=plastic)](https://github.com/jundy779/Project2_pw/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/jundy779/Project2_pw/master/LICENSE)
 
 # Note:
 Project is licensed under the MIT license
@@ -19,7 +19,7 @@ Project is made open source and free for all. We cant prohibit reselling of our 
 
 # Preview Photos
 
-#### Live preview link: https://hungry-lovelace-dd978e.netlify.app/
+#### Live preview link: https://kreasi.nurulfikri.ac.id/muha22233si/Project2_UAS/
 
 #### Lower part of main page
 ![Preview image 1](/img/preview/previewimage1.png?raw=true "Lower part of main page") 
